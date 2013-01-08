@@ -25,7 +25,7 @@ Javascript library that convert XML into a  JSON object
 
 *output:*
 
-```json
+```ruby
 {
   "@attributes": {
     AID: "=",
